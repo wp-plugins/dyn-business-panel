@@ -30,9 +30,7 @@ You can use Dyn Business Panel to keep track of your company or manage your free
 
 == Frequently asked questions ==
 
-= A question that someone might have =
-
-An answer to that question.
+You can add your question y going to the Support Forum
 
 == Screenshots ==
 
@@ -42,7 +40,8 @@ An answer to that question.
 
 == Changelog ==
 
-
+No changelog yet
 
 == Upgrade notice ==
 
+No notices
